@@ -1,5 +1,11 @@
 # Custom Book
 
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/CHEN-taeo/custom-book" alt="Last Commit">
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
+</p>
+
+
 > 把要学习的知识点，量身定制成一本你喜欢的小说。
 
 **Custom Book** 是一款 AI 驱动的学习阅读应用：上传任意学习材料，选择你喜欢的小说类型与主角设定，系统将知识点结构化后嵌入连载叙事，让你在「追更」中完成理解与记忆。
